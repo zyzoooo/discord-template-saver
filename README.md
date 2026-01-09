@@ -34,8 +34,7 @@ Prefix: `;`
 Edit these values in the script:
 
 - `zyzo_allowed_users` – Discord user IDs allowed to run commands  
-- Bot token at the bottom of the file  
-- Command prefix if needed  
+- `zyzo_bot.run("REPLACE TOKEN")` at the bottom of the file  
 
 ## Files Created
 
